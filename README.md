@@ -26,4 +26,4 @@ download compressed raw data
 unzip raw data and copy the directory UCI HAR Dataset to the cloned repository root directory
 open a R console and set the working directory to the repository root (use setwd())
 source run_analisys.R script (it requires the plyr package): source('run_analysis.R')
-In the repository root directory you find the file Tidy.txt.txt with the tidy data set.
+In the repository root directory you find the file Tidy.txt with the tidy data set.
